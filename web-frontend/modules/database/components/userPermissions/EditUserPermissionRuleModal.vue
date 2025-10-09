@@ -593,5 +593,6 @@ export default {
     font-weight: 500;
     color: $color-neutral-900;
   }
+  }
 }
 </style>

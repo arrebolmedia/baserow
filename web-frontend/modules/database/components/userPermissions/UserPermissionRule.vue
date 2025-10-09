@@ -353,7 +353,7 @@ export default {
         color: $color-error-600;
 
         &:hover {
-          background-color: $color-error-50;
+          background-color: $color-error-100;
         }
       }
     }

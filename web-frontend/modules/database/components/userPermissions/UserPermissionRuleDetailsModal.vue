@@ -487,5 +487,6 @@ export default {
       }
     }
   }
+  }
 }
 </style>
