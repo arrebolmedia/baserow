@@ -343,7 +343,7 @@ export default {
 
     &--allowed {
       border-color: $color-success-300;
-      background: $color-success-50;
+      background: $color-success-100;
 
       .user-permission-details__permission-icon {
         color: $color-success-600;
@@ -424,7 +424,7 @@ export default {
     gap: 8px;
     margin-top: 8px;
     padding: 8px 12px;
-    background: $color-warning-50;
+    background: $color-warning-100;
     border: 1px solid $color-warning-200;
     border-radius: 6px;
     font-size: 12px;

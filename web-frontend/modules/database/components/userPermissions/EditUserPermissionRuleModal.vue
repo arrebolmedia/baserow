@@ -484,7 +484,7 @@ export default {
 
     &--selected {
       border-color: $color-primary-600;
-      background-color: $color-primary-50;
+      background-color: $color-primary-100;
     }
 
     &-header {
